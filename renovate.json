@@ -1,0 +1,5 @@
+{
+  "extends": ["config:base"],
+  "assignAutomerge": true,
+  "enabledManagers": ["npm"]
+}
