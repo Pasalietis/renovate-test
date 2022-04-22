@@ -13,6 +13,6 @@
     "node_modules"
   ],
   "dependencies": {
-    "immer": "8.0.1"
+    "immer": "9.0.12"
   }
 }
