@@ -1,7 +1,9 @@
 {
   "extends": ["config:base"],
+  "reviewers": ["@Pasalietis"],
   "assignAutomerge": true,
   "enabledManagers": ["npm"],
+  "labels": ["dependencies", "Type: Frontend"],
   "packageRules": [{
     "packagePatterns": ["*"],
     "enabled": false
@@ -10,5 +12,6 @@
     "labels": ["dependencies", "security", "Type: Frontend"],
     "enabled": true
   },
-  "dependencyDashboard": true
+  "dependencyDashboard": true,
+  "prFooter": "@Pasalietis"
 }
