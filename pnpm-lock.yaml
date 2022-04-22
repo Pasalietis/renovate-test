@@ -1,13 +1,13 @@
 lockfileVersion: 5.3
 
 specifiers:
-  immer: 8.0.1
+  immer: 8.0.4
 
 dependencies:
-  immer: 8.0.1
+  immer: 8.0.4
 
 packages:
 
-  /immer/8.0.1:
-    resolution: {integrity: sha512-aqXhGP7//Gui2+UrEtvxZxSquQVXTpZ7KDxfCcKAF3Vysvw0CViVaW9RZ1j1xlIYqaaaipBoqdqeibkc18PNvA==}
+  /immer/8.0.4:
+    resolution: {integrity: sha512-jMfL18P+/6P6epANRvRk6q8t+3gGhqsJ9EuJ25AXE+9bNTYtssvzeYbEd0mXRYWCmmXSIbnlpz6vd6iJlmGGGQ==}
     dev: false
