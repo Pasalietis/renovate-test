@@ -3,30 +3,30 @@ lockfileVersion: 5.3
 specifiers:
   '@vinted/apphealth-web': 4.1.0
   '@vinted/web-ui': 15.5.0
-  accounting: 0.4.*
-  adyen-cse-js: ^0.1.19
-  autosize: 3.0.*
+  accounting: 0.4.1
+  adyen-cse-js: 0.1.19
+  autosize: 3.0.21
   browserify: 16.5.1
-  browserify-incremental: 3.1.*
+  browserify-incremental: 3.1.1
   deep-equal: 1.0.1
-  del: 1.2.*
-  eslint: ^7.27.0
-  fingerprintjs2: ^2.1.0
-  flatpickr: ^4.5.2
+  del: 1.2.1
+  eslint: 7.27.0
+  fingerprintjs2: 2.1.0
+  flatpickr: 4.6.3
   handlebars: 4.7.7
-  hbsfy: 2.8.*
-  leaflet: 0.7.*
-  merge-stream: 1.0.*
-  moment: ^2.11.2
-  object-fit-images: ^2.5.9
-  perfect-scrollbar: ^0.7.1
-  pretty-hrtime: 1.0.*
-  require-dir: 0.3.*
-  selectize: 0.12.*
-  sortablejs: 1.4.*
-  twitter-text: ^1.13.2
-  vinyl-source-stream: 1.1.*
-  waypoints: 4.0.*
+  hbsfy: 2.8.1
+  leaflet: 0.7.7
+  merge-stream: 1.0.1
+  moment: 2.24.0
+  object-fit-images: 2.5.9
+  perfect-scrollbar: 0.7.1
+  pretty-hrtime: 1.0.3
+  require-dir: 0.3.2
+  selectize: 0.12.6
+  sortablejs: 1.4.2
+  twitter-text: 1.14.7
+  vinyl-source-stream: 1.1.2
+  waypoints: 4.0.1
 
 dependencies:
   '@vinted/apphealth-web': 4.1.0
