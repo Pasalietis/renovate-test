@@ -76,7 +76,7 @@
     "intl": "1.2.5",
     "intl-pluralrules": "1.0.3",
     "lodash": "4.17.21",
-    "next": "10.2.3",
+    "next": "12.1.0",
     "next-redux-wrapper": "7.0.5",
     "rails-translations-webpack-plugin": "1.1.0",
     "react": "16.14.0",
