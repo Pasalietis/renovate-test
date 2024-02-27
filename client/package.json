@@ -61,7 +61,7 @@
     "@reduxjs/toolkit": "1.5.1",
     "@vinted/web-ui": "15.5.0",
     "actioncable": "5.2.6",
-    "axios": "0.21.4",
+    "axios": "0.28.0",
     "classnames": "2.2.6",
     "compression-webpack-plugin": "7.1.2",
     "cookie": "0.4.1",
